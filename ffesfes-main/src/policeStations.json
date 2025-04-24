@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Lalbazar Police Station",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "phone": "+91 9876543210",
+    "location": "Kolkata, West Bengal, India"
+  },
+  {
+    "name": "Connaught Place Police Station",
+    "latitude": 28.6271,
+    "longitude": 77.2167,
+    "phone": "+91 9876543211",
+    "location": "New Delhi, India"
+  },
+  {
+    "name": "Colaba Police Station",
+    "latitude": 18.9063,
+    "longitude": 72.8147,
+    "phone": "+91 9876543212",
+    "location": "Mumbai, Maharashtra, India"
+  },
+  {
+    "name": "Teynampet Police Station",
+    "latitude": 13.05,
+    "longitude": 80.25,
+    "phone": "+91 9876543213",
+    "location": "Chennai, Tamil Nadu, India"
+  },
+  {
+    "name": "MG Road Police Station",
+    "latitude": 12.9719,
+    "longitude": 77.5937,
+    "phone": "+91 9876543214",
+    "location": "Bangalore, Karnataka, India"
+  },
+  {
+    "name": "Sector 39 Police Station",
+    "latitude": 28.4744,
+    "longitude": 77.503,
+    "phone": "+91 9876543215",
+    "location": "Greater Noida, Uttar Pradesh, India"
+  },
+  {
+    "name": "Gomti Nagar Police Station",
+    "latitude": 26.85,
+    "longitude": 81.0,
+    "phone": "+91 9876543216",
+    "location": "Lucknow, Uttar Pradesh, India"
+  },
+  {
+    "name": "Patna Kotwali Police Station",
+    "latitude": 25.5941,
+    "longitude": 85.1376,
+    "phone": "+91 9876543217",
+    "location": "Patna, Bihar, India"
+  },
+  {
+    "name": "Kanke Police Station",
+    "latitude": 23.4,
+    "longitude": 85.3,
+    "phone": "+91 9876543218",
+    "location": "Ranchi, Jharkhand, India"
+  },
+  {
+    "name": "Sadar Police Station",
+    "latitude": 26.1445,
+    "longitude": 91.7362,
+    "phone": "+91 9876543219",
+    "location": "Guwahati, Assam, India"
+  },
+  {
+    "name": "Shyam Nagar Police Station",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "phone": "+91 9876543220",
+    "location": "Jaipur, Rajasthan, India"
+  },
+  {
+    "name": "Hazratganj Police Station",
+    "latitude": 26.8533,
+    "longitude": 80.9462,
+    "phone": "+91 9876543221",
+    "location": "Lucknow, Uttar Pradesh, India"
+  },
+  {
+    "name": "Civil Lines Police Station",
+    "latitude": 23.1793,
+    "longitude": 79.9363,
+    "phone": "+91 9876543222",
+    "location": "Jabalpur, Madhya Pradesh, India"
+  },
+  {
+    "name": "Sector 20 Police Station",
+    "latitude": 28.5701,
+    "longitude": 77.324,
+    "phone": "+91 9876543223",
+    "location": "Noida, Uttar Pradesh, India"
+  },
+  {
+    "name": "Banjara Hills Police Station",
+    "latitude": 17.4239,
+    "longitude": 78.4483,
+    "phone": "+91 9876543224",
+    "location": "Hyderabad, Telangana, India"
+  },
+  {
+    "name": "Paltan Bazaar Police Station",
+    "latitude": 30.3165,
+    "longitude": 78.0322,
+    "phone": "+91 9876543225",
+    "location": "Dehradun, Uttarakhand, India"
+  },
+  {
+    "name": "Sector 17 Police Station",
+    "latitude": 30.7333,
+    "longitude": 76.7794,
+    "phone": "+91 9876543226",
+    "location": "Chandigarh, India"
+  },
+  {
+    "name": "Boring Road Police Station",
+    "latitude": 25.6093,
+    "longitude": 85.1235,
+    "phone": "+91 9876543227",
+    "location": "Patna, Bihar, India"
+  },
+  {
+    "name": "Dumas Road Police Station",
+    "latitude": 21.1702,
+    "longitude": 72.8311,
+    "phone": "+91 9876543228",
+    "location": "Surat, Gujarat, India"
+  },
+  {
+    "name": "MG Road Police Station",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "phone": "+91 9876543229",
+    "location": "Jaipur, Rajasthan, India"
+  },
+  {
+    "name": "Malleshwaram Police Station",
+    "latitude": 12.9907,
+    "longitude": 77.5703,
+    "phone": "+91 9876543230",
+    "location": "Bangalore, Karnataka, India"
+  },
+  {
+    "name": "Kaloor Police Station",
+    "latitude": 9.9981,
+    "longitude": 76.2893,
+    "phone": "+91 9876543231",
+    "location": "Kochi, Kerala, India"
+  },
+  {
+    "name": "Itanagar Police Station",
+    "latitude": 27.1023,
+    "longitude": 93.692,
+    "phone": "+91 9876543232",
+    "location": "Itanagar, Arunachal Pradesh, India"
+  },
+  {
+    "name": "Indira Nagar Police Station",
+    "latitude": 12.9784,
+    "longitude": 77.6408,
+    "phone": "+91 9876543233",
+    "location": "Bangalore, Karnataka, India"
+  },
+  {
+    "name": "Shilpgram Police Station",
+    "latitude": 27.1744,
+    "longitude": 78.0421,
+    "phone": "+91 9876543234",
+    "location": "Agra, Uttar Pradesh, India"
+  },
+  {
+    "name": "Kasba Police Station",
+    "latitude": 22.5205,
+    "longitude": 88.3852,
+    "phone": "+91 9876543235",
+    "location": "Kolkata, West Bengal, India"
+  },
+  {
+    "name": "Manikonda Police Station",
+    "latitude": 17.4065,
+    "longitude": 78.3823,
+    "phone": "+91 9876543236",
+    "location": "Hyderabad, Telangana, India"
+  },
+  {
+    "name": "Beliaghata Police Station",
+    "latitude": 22.5689,
+    "longitude": 88.4015,
+    "phone": "+91 9876543237",
+    "location": "Kolkata, West Bengal, India"
+  }
+]
